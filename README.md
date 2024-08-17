@@ -8,11 +8,11 @@ My name is Trần Vũ Giang. I specialize in front-end development and am curren
 
 <a href="https://github.com/TranVuGiang/Amthucsinhvien/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=Amthucsinhvien&theme=radical" />
 </a>    
 <a href="https://github.com/TranVuGiang/QLYNV_HeliumStudio/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=QLNV_HeliumStudio&theme=merko" />
 </a>
 
 
