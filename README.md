@@ -14,21 +14,21 @@ My name is Trần Vũ Giang. I specialize in front-end development and am curren
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=QLYNV_HeliumStudio&theme=merko" />
 </a>
-<a href="https://github.com/uvipen/AirGesture/">
+<a href="https://github.com/TranVuGiang/CrownCoffee/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=CrownCoffee&theme=synthwave" />
 </a>    
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
+<a href="https://github.com/TranVuGiang/ShoeFoothball/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=ShoeFoothball&theme=highcontrast" />
 </a>
-
+<!--
 <a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
+ Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
 </a>    
 <a href="https://github.com/uvipen/Photomosaic-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
-</a>
+ Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TranVuGiang&repo=Photomosaic-generator&theme=radical" />
+</a>  -->
 
